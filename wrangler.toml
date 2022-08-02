@@ -1,0 +1,9 @@
+name = "edge-demo"
+main = "src/index.ts"
+compatibility_date = "2022-08-02"
+
+[vars]
+UPSTASH_REDIS_REST_URL="https://global-massive-deer-30946.upstash.io"
+
+# [secrets]
+# UPSTASH_REDIS_REST_TOKEN
